@@ -1,2 +1,2 @@
 # progweb
-arquivos o u repositório para a aula de prog p/ web
+arquivos ou repositório para a aula de prog p/ web
